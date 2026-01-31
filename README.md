@@ -15,17 +15,19 @@ This repository contains **all exercises I completed during the Piscine at 1337*
 
 ---
 
-#### PICINE ? POOL ?
+## 🏫 About 42
 
-The **Piscine** is an intensive, 4-week coding bootcamp at 1337 / 42 Network where students **learn by doing, not by listening to lectures**.  
+42 is an international tuition-free coding school. **No teachers, no classes, no lectures** — you learn by working on projects, helping peers, and solving problems independently. The campus is open 24/7 and the learning model focuses on **problem-solving, autonomy, and teamwork**.  
 
-- No teachers, no traditional classes  
-- 100% project-based learning  
-- Peer-to-peer collaboration and evaluation  
-- Encourages experimentation, problem-solving, and creativity  
-- Designed to **push you beyond your comfort zone** while supporting growth 
+---
 
-> No teachers, no lectures — just **projects, challenges, and teamwork**. Think of it like a **gamified coding bootcamp**! 🎮💻
+## 🏊 Piscine (Pool)
+
+The Piscine is an intensive 1-month program designed to test your **logic, motivation, and learning ability**.  
+- Daily projects in Shell and C  
+- Team Rush projects  
+- **Most important:** never give up! If you fail an exercise or feel discouraged, keep going and ask your peers for help.  
+
 
 I may **add a full README for each day later**, or maybe I already did and forgot to remove this note 😅.
 
@@ -49,12 +51,6 @@ Rush00/
 ```
 ---
 
-
-## 📊 My Progress
-
-Here’s a snapshot of my progress so far during the Piscine 🏊‍♂️💻.  
-Scores are based on **Moulinette automatic validation and peer evaluations**, showing how I tackled each project and exam.  
-
 ## 📊 My Progress
 
 | Project / Day | Score |
@@ -76,9 +72,83 @@ Scores are based on **Moulinette automatic validation and peer evaluations**, sh
 | **Exam 02** | 100 |
 | **Final Exam** | 72 | 
 
+## ✅ Evaluation System
+
+42 evaluates your projects and exercises through multiple stages:  
+
+- **Norm:** Your code is checked for coding style rules (indentation, function length, file structure).  
+- **Correction (Peer-to-Peer):**  
+  - A fellow student tests your code.  
+  - You must **explain your solution** and answer all questions in the correction sheet.  
+  - **Points system:** You gain **1 point** for correcting someone else and lose **1 point** if someone corrects you.  
+- **Moulinette:** After passing peer correction, your code is automatically tested for correctness, edge cases, and memory issues.
+
+  ---
+
+## 🧪 Exams
+
+- Exercises are **level-based**, starting from level 0. You get a **random exercise** at your level; if you pass it, the next level is unlocked.  
+- Exams test your **logic, correctness, problem-solving, and coding habits**.  
+- **Do not start anything until staff tells you to begin.**  
+
+## 🔐 Login & Exam Workflow
+
+1. Go to a **school computer** before the exam starts and wait until staff tell you to start .  
+2. Set your **username** and **mod password** both as `exam`. You have **10 minutes** to do this or you fail.  
+3. Open terminal and run or it s open automatic as i remember :  
+   ```bash
+   examshell
+   ```
+4. Enter your real intra username and password.
+
+5. The folders you should use:
+```
+open 4 or 3 terminal for that and also i recommand to shearche more about how to log in youtube other article
+or ask other peers whit specific on the one who already have the experciene of the pool
+```
+- the orgin one when you do examshell appear → Git repository for pushing exercises
+
+- subject → exam subject files
+
+- rendu → where you write your solutions and push them
+
+- traces → check failing tests (file_name0, file_name1, etc.) optional but important
+
+*** Use traces to debug failing test cases. ***
+
+Push exercises directly from your computer (no git clone needed):
+```c
+git add filename
+git commit -m "any message"
+git push
+```
+
+5- do gradme at the orign folder
+```
+grademe
+```
+
+## 🔁 Recoding Phase
+
+The Recoding phase ensures that you **really understand your code**, not just that it passes tests.  
+
+- Staff may call you after projects or exams to **explain and debug your work live**.  
+- You may also be given **exercises at the level of your completed days and exams** to solve on the spot.  
+- During recoding, you may be asked to:  
+  - Rewrite parts of your code  
+  - Answer detailed questions about your solution  
+  - Show your reasoning and problem-solving approach  
+- Staff checks your understanding of **logic, edge cases, memory management, and adaptability**.  
+- Passing the Moulinette does **not** guarantee passing recoding — this phase tests **true knowledge**.  
+
+
 ---
 
 ## 📝 Piscine Day-by-Day – Fully Informative
+```
+the full days are from shell00 to shell01 and from c00 to c13 and from rush00 to rush03 or just rush02
+that s what i do from them 
+```
 
 | Day / Project                          | What It Really Involves                                                                                                     | Key Tasks & Exercises                                                                                   | What You Learn / Skills Gained                                                                                           |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -95,35 +165,7 @@ Scores are based on **Moulinette automatic validation and peer evaluations**, sh
 | **C09 – Libraries & Makefiles**        | Build systems, compile multi-file projects, static libraries, automated builds. | Write Makefiles that compile multi-file projects, create static libraries, automate linking. | Build automation, code reuse, dependency management, project organization, prepare for large codebases. |
 | **🚀 Rush00 – First Team Project**     | Timed team project integrating all Shell and C skills. Realistic project environment with collaboration and deadlines. | Coordinate with peers, integrate exercises, follow project specifications, debug and test code collaboratively. | Teamwork, communication, group problem-solving, time management, real world integration of key skills. |
 
-## 🛠️ Tools & Methods
 
-- **Languages:** C, Shell scripting  
-- **Tools:** GCC, Valgrind, Git & GitHub, Peer evaluation  
-- **Learning Method:** Project-based, peer-to-peer, gamified progression  
+## 💡 Advice
 
-**Why it’s cool:**  
-The Piscine makes coding **fun and collaborative**, like leveling up in a game 🎮✨. You gain skills and XP every day!
-
----
-
-## ⚠️ Advice
-
-This repository is **for educational purposes**.  
-
-Do all exercises yourself first; the Piscine is about **learning, problem-solving, and growth**.  
-
-> I may add a **full README for each day later**, or maybe I already did and forgot to remove this note 😅.
-
----
-
-## 🌍 About 1337
-
-1337 is **Morocco’s first tuition-free coding school**, inspired by 42 Paris:
-
-- Open 24/7 to anyone  
-- Project-based & peer-to-peer learning  
-- No teachers, no classes  
-- Full immersion in technology and coding culture  
-
-> see you
-
+> Keep going, even if you fail or don’t pass — you may find yourself succeeding in the Piscine.
