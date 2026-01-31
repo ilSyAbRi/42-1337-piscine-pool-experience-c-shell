@@ -57,8 +57,8 @@ Rush00/
 |---------------|-------|
 | **Shell00 – Shell Basics** | 100 |
 | **C00 – Intro to C** | 85 |
-| **C01 – Pointers & Memory** | 85 |
-| **C02 – Strings & Arrays** | 100 |
+| **C01 – Pointers & Memory** | 100 |
+| **C02 – Strings & Arrays** | 85 |
 | **C03 – Advanced String Manipulation** | 100 |
 | **C04 – Integers & Bases** | 100 |
 | **C05 – Recursion & Iteration** | 100 |
@@ -166,6 +166,6 @@ that s what i do from them
 | **🚀 Rush00 – First Team Project**     | Timed team project integrating all Shell and C skills. Realistic project environment with collaboration and deadlines. | Coordinate with peers, integrate exercises, follow project specifications, debug and test code collaboratively. | Teamwork, communication, group problem-solving, time management, real world integration of key skills. |
 
 
-## 💡 Advice
+# 💡 Advice
 
 > Keep going, even if you fail or don’t pass — you may find yourself succeeding in the Piscine.
