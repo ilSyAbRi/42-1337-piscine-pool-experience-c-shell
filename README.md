@@ -120,7 +120,7 @@ or asking peers who already have Piscine experience for guidance.
 
 - traces → check failing tests (file_name0, file_name1, etc.) optional but important
 
-*** Use traces to debug failing test cases. ***
+***Use traces to debug failing test cases.***
 
 Push exercises directly from your computer (no git clone needed):
 ```c
