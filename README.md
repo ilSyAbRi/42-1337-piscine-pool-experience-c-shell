@@ -29,6 +29,9 @@ The Piscine is an intensive 1-month program designed to test your **logic, motiv
 - **Most important:** never give up! If you fail an exercise or feel discouraged, keep going and ask your peers for help.  
 
 
+> The full Piscine program includes **Shell00 to Shell01**, **C00 to C13**, and **Rush00 to Rush03** (or Rush02).
+
+
 I may **add a full README for each day later**, or maybe I already did and forgot to remove this note 😅.
 
 ---
@@ -102,11 +105,14 @@ Rush00/
 4. Enter your real intra username and password.
 
 5. The folders you should use:
+
+``` 
+For the exams, you should open 3 or 4 terminals to work efficiently.
+I also recommend researching more about the login process on YouTube or other articles
+or asking peers who already have Piscine experience for guidance.
 ```
-open 4 or 3 terminal for that and also i recommand to shearche more about how to log in youtube other article
-or ask other peers whit specific on the one who already have the experciene of the pool
-```
-- the orgin one when you do examshell appear → Git repository for pushing exercises
+
+- the orgin one when you do examshell appear
 
 - subject → exam subject files
 
@@ -123,7 +129,7 @@ git commit -m "any message"
 git push
 ```
 
-5- do gradme at the orign folder
+5- do gradme at the origin folder
 ```
 grademe
 ```
@@ -145,14 +151,11 @@ The Recoding phase ensures that you **really understand your code**, not just th
 ---
 
 ## 📝 Piscine Day-by-Day – Fully Informative
-```
-the full days are from shell00 to shell01 and from c00 to c13 and from rush00 to rush03 or just rush02
-that s what i do from them 
-```
+
 
 | Day / Project                          | What It Really Involves                                                                                                     | Key Tasks & Exercises                                                                                   | What You Learn / Skills Gained                                                                                           |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **🐚 Shell00 – Shell & Unix Fundamentals** | Learn how to use the Unix/Linux shell like a real developer: navigate directories, manage files, work with pipes and redirections, explore environment variables, check permissions, write simple shell scripts, and use Git for version control. You will also practice combining commands, chaining operations, and debugging scripts in a live environment. | Create, move, copy, delete files/directories (`mkdir`, `rm`, `cp`, `mv`), list and explore files (`ls`, `find`, `tree`), redirect outputs (`>`, `>>`), use pipes (`|`) to chain commands, write small scripts (`.sh`) to automate tasks, initialize Git repos, commit changes, push to GitHub. | Terminal fluency, scripting basics, file system understanding, automation skills, Git workflow (commit & push), debugging shell scripts, environment familiarity. |
+| **🐚 Shell00 – Shell & Unix Fundamentals** | Learn how to use the Unix/Linux shell like a real developer: navigate directories, manage files, work with pipes and redirections, explore environment variables, check permissions, write simple shell scripts, and use Git for version control. You will also practice combining commands, chaining operations, and debugging scripts in a live environment. | Create, move, copy, delete files/directories (`mkdir`, `rm`, `cp`, `mv`), list and explore files (`ls`, `find`, `tree`), redirect outputs (`>`, `>>`), use pipes (`\|`) to chain commands, write small scripts (`.sh`) to automate tasks, initialize Git repos, commit changes, push to repo you already have. | Terminal fluency, scripting basics, file system understanding, automation skills, Git workflow (commit & push), debugging shell scripts, environment familiarity. |
 | **C00 – Intro to C**                    | Basic C programming: syntax, variables, functions, loops, conditionals, and output. Anda intro to building small programs that compile cleanly. | `ft_putchar`, `ft_print_alphabet`, `ft_print_reverse_alphabet`, `ft_print_numbers`, simple arithmetic exercises, basic `main()` and functions. | Basic C syntax, compilation with `gcc`, understanding function calls, loops, conditionals, working with standard output. |
 | **C01 – Pointers & Arrays**             | Introduction to pointers and arrays: how memory is referenced, accessed, manipulated, and passed to functions. | Swap integers using pointers, pointer dereferencing, simple array manipulation, multiple levels of pointers. | Memory addresses, pointers, passing by reference, arrays interaction, debugging memory issues, pointer logic. |
 | **C02 – Strings & Arrays**              | Handling strings and character arrays; implement basic library-like functions manually without using `<string.h>`. | Implement `ft_strlen`, `ft_strcpy`, `ft_strcmp`, `ft_strdup`. Iterate over char arrays and handle null-terminated strings. | String manipulation, memory layout, array handling, defensive programming, safe character operations. |
