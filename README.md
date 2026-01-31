@@ -5,12 +5,17 @@
 
 ---
 
-### Welcome! 😄  
+## Welcome! 😄  
+
 This repository contains **all exercises I completed during the Piscine at 1337**, including:
 
 - `Shell00` ✅  
 - `C00 → C09` ✅  
 - `Rush00` ✅  
+
+---
+
+#### PICINE ? POOL ?
 
 The **Piscine** is an intensive, 4-week coding bootcamp at 1337 / 42 Network where students **learn by doing, not by listening to lectures**.  
 
@@ -44,24 +49,51 @@ Rush00/
 ```
 ---
 
-## 📝 Detailed Projects Table
 
-| Day / Project | Mini-Lesson / Explanation |
-|---------------|---------------------------|
-| 🐚 **Shell00** | **Focus:** Linux commands, file navigation, basic shell scripting.<br>**Exercises:** Learn `ls`, `cd`, `pwd`, `cp`, `mv`, `rm`, and write small shell scripts.<br>**Skills:** Command-line fluency, automation, git basics.<br>**Why it matters:** This is your foundation. You must be comfortable navigating Linux to survive the Piscine.<br>**Fun Notes:** Spent more time typing `cd ..` than writing scripts 😅. You’ll be shocked how fast you’ll master the terminal. |
-| **C00 – Intro to C** | **Focus:** Variables, loops, functions, conditionals.<br>**Exercises:** `ft_putchar`, arithmetic operations.<br>**Skills:** Program structure, compiling code.<br>**Why it matters:** Loops and conditionals are the backbone of everything else. Understanding them is key.<br>**Fun Notes:** I might add a full README for C00 later. Think of this as your C “warm-up” day. |
-| **C01 – Pointers & Memory** | **Focus:** Pointers, dereferencing, addresses.<br>**Exercises:** Swapping values, manipulating arrays.<br>**Skills:** Pointer handling, memory understanding.<br>**Why it matters:** Pointers are magical in C 🪄. They let you directly access memory — powerful but tricky.<br>**Fun Notes:** Memory can be scary; leaks will haunt you if you forget `free()`. |
-| **C02 – Strings & Arrays** | **Focus:** Implement C string functions (`ft_strcpy`, `ft_strcmp`, `ft_strlen`).<br>**Skills:** String and array manipulation, memory layout.<br>**Why it matters:** Strings are everywhere. Understanding them is like learning to “speak C” fluently.<br>**Fun Notes:** Strings can be tricky with null terminators — watch out! |
-| **C03 – Advanced String Manipulation** | **Focus:** Complex string exercises, edge cases.<br>**Skills:** Defensive programming, handling tricky cases.<br>**Why it matters:** Life has edge cases, and so does coding. Learn to think like a computer.<br>**Fun Notes:** Tests will break your code if you’re not careful. Debugging is your friend. |
-| **C04 – Integers & Bases** | **Focus:** Numeric conversions, base calculations.<br>**Skills:** Arithmetic logic, problem decomposition.<br>**Why it matters:** Binary, decimal, hexadecimal — all become your playground for logic.<br>**Fun Notes:** Feeling like a number wizard 🧙‍♂️ as you convert bases. |
-| **C05 – Recursion & Iteration** | **Focus:** Recursive factorial, power functions, printing sequences.<br>**Skills:** Iterative vs recursive thinking.<br>**Why it matters:** Recursion is elegant and powerful. Knowing when to use it vs iteration is key.<br>**Fun Notes:** Your brain will “click” when recursion finally makes sense — feels like magic! |
-| **C06 – `argc` & `argv`** | **Focus:** Command-line arguments.<br>**Exercises:** Small CLI programs.<br>**Skills:** Flexible input parsing, dynamic programs.<br>**Why it matters:** Your programs can now react dynamically to user input — huge step toward real applications.<br>**Fun Notes:** Seeing your program respond differently to different inputs is super satisfying! |
-| **C07 – Dynamic Memory Allocation** | **Focus:** `malloc`, `free`, dynamic arrays, string duplication.<br>**Skills:** Memory management.<br>**Why it matters:** Programs that can grow dynamically are powerful. Mismanage memory and watch chaos unfold 😅.<br>**Fun Notes:** Always free your memory or suffer the wrath of leaks! |
-| **C08 – Headers, Macros & Structs** | **Focus:** Code modularization, struct definitions, multiple files.<br>**Skills:** Modular, readable, reusable code.<br>**Why it matters:** Organize your code like a professional. Structs = neat data. Headers = reusable functions.<br>**Fun Notes:** Your code finally looks clean and manageable. |
-| **C09 – Libraries & Makefiles** | **Focus:** Writing Makefiles, linking code libraries.<br>**Skills:** Build automation, reusable code.<br>**Why it matters:** Makefiles save lives. Linking libraries means you never repeat yourself.<br>**Fun Notes:** Makefiles = project superhero cape 🦸‍♂️. |
-| 🚀 **Rush00 – First Team Project** | **Focus:** Combine Shell & C knowledge in a timed team challenge.<br>**Skills:** Teamwork, problem-solving, project planning.<br>**Why it matters:** Everything comes together under time pressure. Teaches real-life coding teamwork.<br>**Fun Notes:** Learned to communicate, split tasks, survive deadlines 😅. Rush00 = intense but rewarding. |
+## 📊 My Progress
+
+Here’s a snapshot of my progress so far during the Piscine 🏊‍♂️💻.  
+Scores are based on **Moulinette automatic validation and peer evaluations**, showing how I tackled each project and exam.  
+
+## 📊 My Progress
+
+| Project / Day | Score |
+|---------------|-------|
+| **Shell00 – Shell Basics** | 100 |
+| **C00 – Intro to C** | 85 |
+| **C01 – Pointers & Memory** | 85 |
+| **C02 – Strings & Arrays** | 100 |
+| **C03 – Advanced String Manipulation** | 100 |
+| **C04 – Integers & Bases** | 100 |
+| **C05 – Recursion & Iteration** | 100 |
+| **C06 – `argc` & `argv`** | 100 |
+| **C07 – Dynamic Memory Allocation** | 100 |
+| **C08 – Headers, Macros & Structs** | 100 |
+| **C09 – Libraries & Makefiles** | 100 |
+| **Rush00 – First Team Project** | 116 |
+| **Exam 00** | 100 |
+| **Exam 01** | 100 |
+| **Exam 02** | 100 |
+| **Final Exam** | 72 | 
 
 ---
+
+## 📝 Piscine Day-by-Day – Fully Informative
+
+| Day / Project                          | What It Really Involves                                                                                                     | Key Tasks & Exercises                                                                                   | What You Learn / Skills Gained                                                                                           |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **🐚 Shell00 – Shell & Unix Fundamentals** | Learn how to use the Unix/Linux shell like a real developer: navigate directories, manage files, work with pipes and redirections, explore environment variables, check permissions, write simple shell scripts, and use Git for version control. You will also practice combining commands, chaining operations, and debugging scripts in a live environment. | Create, move, copy, delete files/directories (`mkdir`, `rm`, `cp`, `mv`), list and explore files (`ls`, `find`, `tree`), redirect outputs (`>`, `>>`), use pipes (`|`) to chain commands, write small scripts (`.sh`) to automate tasks, initialize Git repos, commit changes, push to GitHub. | Terminal fluency, scripting basics, file system understanding, automation skills, Git workflow (commit & push), debugging shell scripts, environment familiarity. |
+| **C00 – Intro to C**                    | Basic C programming: syntax, variables, functions, loops, conditionals, and output. Anda intro to building small programs that compile cleanly. | `ft_putchar`, `ft_print_alphabet`, `ft_print_reverse_alphabet`, `ft_print_numbers`, simple arithmetic exercises, basic `main()` and functions. | Basic C syntax, compilation with `gcc`, understanding function calls, loops, conditionals, working with standard output. |
+| **C01 – Pointers & Arrays**             | Introduction to pointers and arrays: how memory is referenced, accessed, manipulated, and passed to functions. | Swap integers using pointers, pointer dereferencing, simple array manipulation, multiple levels of pointers. | Memory addresses, pointers, passing by reference, arrays interaction, debugging memory issues, pointer logic. |
+| **C02 – Strings & Arrays**              | Handling strings and character arrays; implement basic library-like functions manually without using `<string.h>`. | Implement `ft_strlen`, `ft_strcpy`, `ft_strcmp`, `ft_strdup`. Iterate over char arrays and handle null-terminated strings. | String manipulation, memory layout, array handling, defensive programming, safe character operations. |
+| **C03 – Advanced String Manipulation**  | More advanced string tasks. Handling more complex transformations and edge cases. | Capitalize text, check printable characters, handle concatenation safely, manipulate strings with multiple rules. | Defensive programming (think through edge cases), deeper string logic, character operations. |
+| **C04 – Integers & Bases**             | Work with numeric logic and base conversions, including implementing functions not available in the standard library. | Convert numbers to binary/octal/hexadecimal, map digits to chars, perform arithmetic without standard library; implement custom base conversions. | Numeric reasoning, conversion between representations, breaking problems into algorithmic steps. |
+| **C05 – Recursion & Iteration**         | Practice recursive programming and iteration; compare both techniques. | Recursive factorial, power functions, Fibonacci numbers, sequence printing; iterative equivalents. | Understand recursion and iteration, call stack, recursive function design, algorithmic thinking, debugging recursive logic. |
+| **C06 – `argc` & `argv`**               | Command-line argument handling. Programs read and process parameters from CLI. | Sum numbers from CLI, validate arguments, handle incorrect parameters gracefully. | How to read CLI arguments, parse input, validate and respond, design flexible command-line programs. |
+| **C07 – Dynamic Memory Allocation**     | Use `malloc` and `free` to allocate memory dynamically. Manage heap memory safely. | Create dynamic arrays, copy strings, build flexible data structures, free memory to avoid leaks. | Dynamic memory handling, safe allocation/deallocation, heap memory management, working with runtime-sized structures. |
+| **C08 – Headers, Macros & Structs**    | Organize code into multiple files, use headers, macros, and structs. Modular coding practice. | Split code into `.c` and `.h` files, define and use structs, implement macros, modularize functions. | Modular programming, maintainable code, reusable structures, better project organization, teamwork readiness. |
+| **C09 – Libraries & Makefiles**        | Build systems, compile multi-file projects, static libraries, automated builds. | Write Makefiles that compile multi-file projects, create static libraries, automate linking. | Build automation, code reuse, dependency management, project organization, prepare for large codebases. |
+| **🚀 Rush00 – First Team Project**     | Timed team project integrating all Shell and C skills. Realistic project environment with collaboration and deadlines. | Coordinate with peers, integrate exercises, follow project specifications, debug and test code collaboratively. | Teamwork, communication, group problem-solving, time management, real world integration of key skills. |
 
 ## 🛠️ Tools & Methods
 
