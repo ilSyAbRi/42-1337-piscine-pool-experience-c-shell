@@ -170,5 +170,17 @@ The Recoding phase ensures that you **really understand your code**, not just th
 
 
 # 💡 Advice
-
+```
+___??????????????????
+ ```
 > Keep going, even if you fail or don’t pass — you may find yourself succeeding in the Piscine.
+
+```
+ ___^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ```
+
+##### Ma site
+
+[Visit my site](https://ilsyabri.github.io/42-1337-piscine-pool-experience-c-shell/)
+
+
