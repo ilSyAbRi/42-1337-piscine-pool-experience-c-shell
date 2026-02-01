@@ -1,4 +1,13 @@
 theme: jekyll-theme-midnight
+
+# SEO Optimized Title & Description
 title: 42 & 1337 Piscine Portfolio | C & Shell Projects
-description: A complete portfolio of C and Shell projects from the 42 Network and 1337 School Piscine. Explore optimized code, algorithms, and system scripts.
-url: "https://ilsyabri.github.io/42-1337-piscine-pool-experience-c-shell/"
+description: A complete portfolio of C and Shell projects from the 42 Network and 1337 School Piscine. Explore optimized code, algorithms, and system administration scripts.
+
+# URL Settings (Crucial for Sitemap to work)
+url: "https://ilsyabri.github.io"
+baseurl: "/42-1337-piscine-pool-experience-c-shell"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
