@@ -64,7 +64,7 @@ Rush00/
 | **C02 – Strings & Arrays** | 85 |
 | **C03 – Advanced String Manipulation** | 100 |
 | **C04 – Integers & Bases** | 100 |
-| **C05 – Recursion & Iteration** | 100 |
+| **C05 – Recursion & Iteration** | 85 |
 | **C06 – `argc` & `argv`** | 100 |
 | **C07 – Dynamic Memory Allocation** | 100 |
 | **C08 – Headers, Macros & Structs** | 100 |
