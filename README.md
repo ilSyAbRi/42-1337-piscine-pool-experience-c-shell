@@ -172,6 +172,7 @@ These images explain the exam logs.
   <img src="8log.webp" width="260" />
 </p>
 
+<br>
 
 ## 🔁 Recoding Phase
 
@@ -188,6 +189,9 @@ The Recoding phase ensures that you **really understand your code**, not just th
 
 
 ---
+
+<br>
+
 
 ## 📝 Piscine Day-by-Day – Fully Informative
 
@@ -208,6 +212,7 @@ The Recoding phase ensures that you **really understand your code**, not just th
 | **C09 – Libraries & Makefiles**        | Build systems, compile multi-file projects, static libraries, automated builds. | Write Makefiles that compile multi-file projects, create static libraries, automate linking. | Build automation, code reuse, dependency management, project organization, prepare for large codebases. |
 | **🚀 Rush00 – First Team Project**     | Timed team project integrating all Shell and C skills. Realistic project environment with collaboration and deadlines. | Coordinate with peers, integrate exercises, follow project specifications, debug and test code collaboratively. | Teamwork, communication, group problem-solving, time management, real world integration of key skills. |
 
+<br>
 
 # 💡 Advice
 ```
@@ -218,3 +223,4 @@ ___??????????????????
 ```
  ___^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  ```
+<br>
