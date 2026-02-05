@@ -182,7 +182,7 @@ The Recoding phase ensures that you **really understand your code**, not just th
 - Staff may call you after projects or exams to **explain and debug your work live**.  
 - You may also be given **exercises at the level of your completed days and exams** to solve on the spot.  
 - During recoding, you may be asked to:  
-  - Rewrite parts of your code  
+  - Rewrite parts of your code or new code
   - Answer detailed questions about your solution  
   - Show your reasoning and problem-solving approach  
 - Staff checks your understanding of **logic, edge cases, memory management, and adaptability**.  
