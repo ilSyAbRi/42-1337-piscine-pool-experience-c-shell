@@ -15,11 +15,14 @@ This repository contains **all exercises I completed during the Piscine at 1337*
 
 ---
 
+
 ## 🏫 About 42
 
 42 is an international tuition-free coding school. **No teachers, no classes, no lectures** — you learn by working on projects, helping peers, and solving problems independently. The campus is open 24/7 and the learning model focuses on **problem-solving, autonomy, and teamwork**.  
 
 ---
+
+<br>
 
 ## 🏊 Piscine (Pool)
 
@@ -35,6 +38,8 @@ The Piscine is an intensive 1-month program designed to test your **logic, motiv
 I may **add a full README for each day later**, or maybe I already did and forgot to remove this note 😅.
 
 ---
+
+<br>
 
 ## 📂 Repository Structure
 ```c
@@ -53,6 +58,8 @@ Rush00/
 
 ```
 ---
+
+<br>
 
 ## 📊 My Progress
 
@@ -75,6 +82,8 @@ Rush00/
 | **Exam 02** | 100 |
 | **Final Exam** | 72 | 
 
+<br>
+
 ## ✅ Evaluation System
 
 42 evaluates your projects and exercises through multiple stages:  
@@ -88,13 +97,23 @@ Rush00/
 
   ---
 
+<br>
+
 ## 🧪 Exams
 
 - Exercises are **level-based**, starting from level 0. You get a **random exercise** at your level; if you pass it, the next level is unlocked.  
 - Exams test your **logic, correctness, problem-solving, and coding habits**.  
-- **Do not start anything until staff tells you to begin.**  
+- **Do not start anything until staff tells you to begin.**
+  
+<br>
 
 ## 🔐 Login & Exam Workflow
+
+<br>
+
+ ***Step 0: Do not forget to register for the exam before the exam day. Ask your peers how to register.***
+ 
+<br>
 
 1. Go to a **school computer** before the exam starts and wait until staff tell you to start .  
 2. Set your **username** and **mod password** both as `exam`. You have **10 minutes** to do this or you fail.  
@@ -133,16 +152,24 @@ git push
 ```
 grademe
 ```
+<p align="center"> 
+These images explain the exam logs.
+</p>
+
 <p align="center">
-  <img src="0log.webp" width="100" style="margin-right:5px;" />
-  <img src="1log.webp" width="100" style="margin-right:5px;" />
-  <img src="2log.webp" width="100" style="margin-right:5px;" />
-  <img src="3log.webp" width="100" style="margin-right:5px;" />
-  <img src="4log.webp" width="100" style="margin-right:5px;" />
-  <img src="5log.webp" width="100" style="margin-right:5px;" />
-  <img src="6log.webp" width="100" style="margin-right:5px;" />
-  <img src="7log.webp" width="100" style="margin-right:5px;" />
-  <img src="8log.webp" width="100" />
+  <img src="0log.webp" width="300" />
+  <img src="1log.webp" width="300" />
+  <img src="2log.webp" width="300" />
+</p>
+<p align="center">
+  <img src="3log.webp" width="300" />
+  <img src="4log.webp" width="300" />
+  <img src="5log.webp" width="300" />
+</p>
+<p align="center">
+  <img src="6log.webp" width="300" />
+  <img src="7log.webp" width="300" />
+  <img src="8log.webp" width="300" />
 </p>
 
 ## 🔁 Recoding Phase
