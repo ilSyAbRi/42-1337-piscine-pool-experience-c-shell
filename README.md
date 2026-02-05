@@ -157,19 +157,19 @@ These images explain the exam logs.
 </p>
 
 <p align="center">
-  <img src="0log.webp" width="300" />
-  <img src="1log.webp" width="300" />
-  <img src="2log.webp" width="300" />
+  <img src="0log.webp" width="260" />
+  <img src="1log.webp" width="260" />
+  <img src="2log.webp" width="260" />
 </p>
 <p align="center">
-  <img src="3log.webp" width="300" />
-  <img src="4log.webp" width="300" />
-  <img src="5log.webp" width="300" />
+  <img src="3log.webp" width="260" />
+  <img src="4log.webp" width="260" />
+  <img src="5log.webp" width="260" />
 </p>
 <p align="center">
-  <img src="6log.webp" width="300" />
-  <img src="7log.webp" width="300" />
-  <img src="8log.webp" width="300" />
+  <img src="6log.webp" width="260" />
+  <img src="7log.webp" width="260" />
+  <img src="8log.webp" width="260" />
 </p>
 
 
