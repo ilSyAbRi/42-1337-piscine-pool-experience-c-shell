@@ -133,6 +133,17 @@ git push
 ```
 grademe
 ```
+<p align="center">
+  <img src="0log.webp" width="100" style="margin-right:5px;" />
+  <img src="1log.webp" width="100" style="margin-right:5px;" />
+  <img src="2log.webp" width="100" style="margin-right:5px;" />
+  <img src="3log.webp" width="100" style="margin-right:5px;" />
+  <img src="4log.webp" width="100" style="margin-right:5px;" />
+  <img src="5log.webp" width="100" style="margin-right:5px;" />
+  <img src="6log.webp" width="100" style="margin-right:5px;" />
+  <img src="7log.webp" width="100" style="margin-right:5px;" />
+  <img src="8log.webp" width="100" />
+</p>
 
 ## 🔁 Recoding Phase
 
