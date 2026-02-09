@@ -3,7 +3,7 @@
 ![Piscine 1337](https://img.shields.io/badge/Piscine‑1337-blue?style=for-the-badge)
 ![Language: C & Shell](https://img.shields.io/badge/Languages-C%20%26%20Shell-green?style=for-the-badge)
 
-📥 [Download All Subjects (c & shell) (ZIP)](https://github.com/ilSyAbRi/42-1337-piscine-pool-experience-c-shell/raw/main/subjects.zip)
+📥 [Download Subjects (c & shell) (ZIP)](https://github.com/ilSyAbRi/42-1337-piscine-pool-experience-c-shell/raw/main/subjects.zip)
 
 ---
 
