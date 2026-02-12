@@ -217,13 +217,9 @@ The Recoding phase ensures that you **really understand your code**, not just th
 
 <br>
 
-# 💡 Advice
-```
-___??????????????????
- ```
+### 💡 Advice
+
 > Keep going, even if you fail or don’t pass — you may find yourself succeeding in the Piscine.
 
-```
- ___^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- ```
+
 <br>
