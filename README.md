@@ -37,6 +37,7 @@ This repository contains **all exercises I completed during the Piscine at 1337*
 - [c10.pdf](c10.pdf)
 - [c11.pdf](c11.pdf)
 - [c12.pdf](c12.pdf)
+- [c13.pdf](c13.pdf)
 
 
 ---
