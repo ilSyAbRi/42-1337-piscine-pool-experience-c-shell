@@ -13,7 +13,31 @@ This repository contains **all exercises I completed during the Piscine at 1337*
 
 - `Shell00` ✅  
 - `C00 → C09` ✅  
-- `Rush00` ✅  
+- `Rush00` ✅
+  
+---
+
+### 📚 Subject Files
+
+#### 🐚 Shell
+- [shell00.pdf](shell00.pdf)
+- [shell01.pdf](shell01.pdf)
+
+#### 💻 C
+- [c00.pdf](c00.pdf)
+- [c01.pdf](c01.pdf)
+- [c02.pdf](c02.pdf)
+- [c03.pdf](c03.pdf)
+- [c04.pdf](c04.pdf)
+- [c05.pdf](c05.pdf)
+- [c06.pdf](c06.pdf)
+- [c07.pdf](c07.pdf)
+- [c08.pdf](c08.pdf)
+- [c09.pdf](c09.pdf)
+- [c10.pdf](c10.pdf)
+- [c11.pdf](c11.pdf)
+- [c12.pdf](c12.pdf)
+
 
 ---
 
